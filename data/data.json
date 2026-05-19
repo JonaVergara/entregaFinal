@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "nombre": "Head Speed MP",
+    "precio": 500000,
+    "imagen": "../assets/img/headspeed.jpg",
+    "categoria": "raquetas"
+  },
+  {
+    "id": 2,
+    "nombre": "Babolat Drive",
+    "precio": 520000,
+    "imagen": "../assets/img/babolatpuredrive.webp",
+    "categoria": "raquetas"
+  },
+  {
+    "id": 3,
+    "nombre": "Babolat Aero",
+    "precio": 520000,
+    "imagen": "../assets/img/pureaero.jpg",
+    "categoria": "raquetas"
+  },
+  {
+    "id": 4,
+    "nombre": "Wilson Blade",
+    "precio": 520000,
+    "imagen": "../assets/img/blade.jpg",
+    "categoria": "raquetas"
+  },
+  {
+    "id": 5,
+    "nombre": "Yonex Ezone",
+    "precio": 520000,
+    "imagen": "../assets/img/ezone.jpg",
+    "categoria": "raquetas"
+  },
+  {
+    "id": 6,
+    "nombre": "Head Extreme",
+    "precio": 520000,
+    "imagen": "../assets/img/extreme.jpg",
+    "categoria": "raquetas"
+  },
+  {
+    "id": 7,
+    "nombre": "Head Radical",
+    "precio": 520000,
+    "imagen": "../assets/img/radical.jpg",
+    "categoria": "raquetas"
+  },
+  {
+    "id": 8,
+    "nombre": "Wilson Ultra",
+    "precio": 520000,
+    "imagen": "../assets/img/ultra.jpg",
+    "categoria": "raquetas"
+  },
+  {
+    "id": 9,
+    "nombre": "Babolat Strike",
+    "precio": 520000,
+    "imagen": "../assets/img/strike.jpg",
+    "categoria": "raquetas"
+  }
+]
