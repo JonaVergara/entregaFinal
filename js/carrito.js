@@ -216,6 +216,7 @@ btnConfirmar.addEventListener("click", () => {
     carrito = []
     localStorage.clear()
     crearCarrito()
+    window.location.href = "../index.html";
 })
     
 })
